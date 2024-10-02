@@ -1,5 +1,5 @@
 # Thesis-Work
-These are the materials used to analyse the data collected for my thesis project. This includes the code to analyze microcolony and colony data.
+These are the codes that I used to analyze the data collected for my thesis project. This includes the code to analyze microcolony and colony data. The data itself is not shared in this page.
 
 
 Cruz_micro_analysis:
